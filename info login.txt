@@ -1,0 +1,9 @@
+
+**nom base de données: gestion_patient**
+
+**info login
+Email   : admin@mail.com
+Password: Password@123
+
+
+
