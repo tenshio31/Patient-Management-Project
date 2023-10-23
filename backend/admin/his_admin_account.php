@@ -179,8 +179,8 @@
                                                                 <label for="lastname">Nouveau mot de passe</label>
                                                                 <input type="password" class="form-control" name="ad_pwd" id="lastname" placeholder="Enter New Password">
                                                             </div>
-                                                        </div> <!-- end col -->
-                                                    </div> <!-- end row -->
+                                                        </div> 
+                                                    </div> 
 
                                                     <div class="form-group">
                                                         <label for="useremail">Confirmer mot de passe</label>
@@ -192,41 +192,19 @@
                                                     </div>
                                                 </form>
                                             </div>
-                                            <!-- end settings content-->
-
-                                        </div> <!-- end tab-content -->
-                                    </div> <!-- end card-box-->
-
-                                </div> <!-- end col -->
+                                        </div>
+                                    </div>
+                                </div> 
                             </div>
-                            <!-- end row-->
-
-                        </div> <!-- container -->
-
-                    </div> <!-- content -->
-
-                    <!-- Footer Start -->
+                        </div> 
+                    </div>
                     <?php include("assets/inc/footer.php");?>
-                    <!-- end Footer -->
 
                 </div>
             <?php }?>
-            <!-- ============================================================== -->
-            <!-- End Page content -->
-            <!-- ============================================================== -->
-
-
         </div>
-        <!-- END wrapper -->
-
-        
-        <!-- Right bar overlay-->
         <div class="rightbar-overlay"></div>
-
-        <!-- Vendor js -->
         <script src="assets/js/vendor.min.js"></script>
-
-        <!-- App js -->
         <script src="assets/js/app.min.js"></script>
 
     </body>
